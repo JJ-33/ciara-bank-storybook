@@ -1,0 +1,151 @@
+/* savings target */
+
+@import './assets/fonts/stylesheet.css';
+
+.st{
+    color:#FFFFFF;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+#savings-summary{
+    color:#FFFFFF;
+}
+
+#savings-summary ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+/* Heading 1 */
+.h1{
+font-family: 'soleilsemibold';
+font-style: normal;
+font-weight: 600;
+font-size: 84px;
+line-height: 110px;
+/* identical to box height, or 131% */
+}
+
+/* Heading 2 */
+.h2{
+font-family: 'soleilregular';
+font-style: normal;
+font-weight: 600;
+font-size: 44px;
+line-height: 56px;
+}
+
+
+/* Heading 3 */
+.h3{
+font-family: 'Soleil';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 40px;
+}
+/* identical to box height, or 143% */
+
+
+/* Heading 4 */
+.h4{
+font-family: 'Soleil';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 26px;
+}
+
+.h5{
+/* Heading 5 */
+font-family: 'soleilbold';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+}
+
+.h6 {font-family: 'soleilsemibold';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    font-variant: small-caps;
+    text-align: center;
+    letter-spacing: 1px;
+}
+    
+
+/* Body 1 */
+.b1{
+font-family: 'soleilregular';
+font-style: normal;
+font-weight: 400;
+font-size: 44px;
+line-height: 56px;
+letter-spacing: 1px;
+}
+
+
+.footer{
+/* Footer Text */
+font-family: 'Soleil';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+}
+
+.b1-half{
+font-family: 'soleilregular';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 32px;
+}
+
+/* Body 2 */
+.b2{
+font-family: 'Soleil';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 26px;
+}
+
+
+
+
+
+
+
+/* Body 3 */
+.b3
+{font-family: 'Soleil';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 24px;}
+/* identical to box height, or 133% */
+
+
+
+
+/* Body Subheading- Soleil Regular 14/20 */
+
+
+/* Body- Subheading */
+.sub-heading{font-family: 'Soleil';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;}
+/* identical to box height, or 143% */
+
+
+/* Heading 6 - Soleil Semibold 16/20 */
+/* Heading 6 */
+
